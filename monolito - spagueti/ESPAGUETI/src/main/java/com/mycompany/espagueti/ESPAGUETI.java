@@ -42,7 +42,7 @@ public class ESPAGUETI extends JFrame {
     // ===== INTERFAZ =====
     public void crearComponentes() {
 
-        JPanel arriba = new JPanel(new GridLayout(3, 2, 5, 5));
+        JPanel arriba = new JPanel(new GridLayout(4, 3, 5, 5));
 
         arriba.add(new JLabel("Título:"));
         txtTitulo = new JTextField();
