@@ -1,0 +1,7 @@
+/home/david/Documentos/UCE/SEPTIMO/ARQUITECTURA/arquitecturas/monolito modular/biblioteca/src/main/java/com/mycompany/biblioteca/Main.java
+/home/david/Documentos/UCE/SEPTIMO/ARQUITECTURA/arquitecturas/monolito modular/biblioteca/src/main/java/com/mycompany/biblioteca/controller/BibliotecaController.java
+/home/david/Documentos/UCE/SEPTIMO/ARQUITECTURA/arquitecturas/monolito modular/biblioteca/src/main/java/com/mycompany/biblioteca/logic/Biblioteca.java
+/home/david/Documentos/UCE/SEPTIMO/ARQUITECTURA/arquitecturas/monolito modular/biblioteca/src/main/java/com/mycompany/biblioteca/model/Libro.java
+/home/david/Documentos/UCE/SEPTIMO/ARQUITECTURA/arquitecturas/monolito modular/biblioteca/src/main/java/com/mycompany/biblioteca/repository/BibliotecaRepository.java
+/home/david/Documentos/UCE/SEPTIMO/ARQUITECTURA/arquitecturas/monolito modular/biblioteca/src/main/java/com/mycompany/biblioteca/service/BibliotecaService.java
+/home/david/Documentos/UCE/SEPTIMO/ARQUITECTURA/arquitecturas/monolito modular/biblioteca/src/main/java/com/mycompany/biblioteca/view/BibliotecaGUI.java

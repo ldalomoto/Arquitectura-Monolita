@@ -1,0 +1,9 @@
+com/mycompany/biblioteca/repository/BibliotecaRepository.class
+com/mycompany/biblioteca/service/BibliotecaService.class
+com/mycompany/biblioteca/model/Libro.class
+com/mycompany/biblioteca/Main.class
+com/mycompany/biblioteca/logic/Biblioteca.class
+com/mycompany/biblioteca/controller/BibliotecaController.class
+com/mycompany/biblioteca/view/BibliotecaGUI.class
+com/mycompany/biblioteca/view/BibliotecaGUI$1.class
+com/mycompany/biblioteca/controller/BibliotecaController$1.class
